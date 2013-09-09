@@ -1,12 +1,19 @@
+3scale
+======
 3scale admin portal: https://squar-admin.3scale.net/p/admin/dashboard
+
 3scale admin user: davidrossellat
 3scale admin password: 1637Charmey$
 
+youtube tutorial
+----------------
+http://www.3scale.net/2012/06/the-10-minute-api-up-running-3scale-grape-heroku-api-10-minutes/
 
 
 pushed a 3scale test on heroku (based on this https://github.com/3scale/sentiment-api-example/)
 
-
+on heroku
+---------
 http://threescale-test.herokuapp.com/v1.1/words/hello.json?app_id=0b035469&app_key=309e28f7f06a85d0af4718220c7f41ee
 http://threescale-test.herokuapp.com/v1.1/sentences/this+is+a+sentence.json?app_id=0b035469&app_key=309e28f7f06a85d0af4718220c7f41ee
 
