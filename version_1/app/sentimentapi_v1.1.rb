@@ -7,7 +7,7 @@ class SentimentApiV1_1 < Grape::API
   version 'v1.1', :using => :path, :vendor => '3scale'
   error_format :json
   
-  $client = ThreeScale::Client.new(:provider_key => "<your 3scale provider key - http://www.3scale.net>")
+  $client = ThreeScale::Client.new(:provider_key => "a170e5b43048ae325b527f25ce8443ea")
   
   helpers do
     def authenticate!
