@@ -1,3 +1,9 @@
+3scale admin portal: https://squar-admin.3scale.net/p/admin/dashboard
+3scale admin user: davidrossellat
+3scale admin password: 1637Charmey$
+
+
+
 pushed a 3scale test on heroku (based on this https://github.com/3scale/sentiment-api-example/)
 
 
